@@ -12,3 +12,4 @@ def decorate(fn)
         print("装饰中...")
         fn()
     return inner
+name = "小明"
