@@ -13,4 +13,10 @@ def decorate(fn)
         fn()
     return inner
 name = "小明"
+
 hahahhaha
+
+
+
+hhhhhaaaa
+
