@@ -9,6 +9,6 @@ print(sum())
 
 def decorate(fn)
     def inner()
-    print("装饰中...")
-    fn()
+        print("装饰中...")
+        fn()
     return inner
